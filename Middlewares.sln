@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Middlewares1", "Middlewares\Middlewares1.csproj", "{6329CAC0-F6C6-4754-ABF0-B639966A8A8E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MiddlewareExample2", "MiddlewareExample\MiddlewareExample2.csproj", "{98EABC4C-00A8-428F-9C06-DCCAEAD03F8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6329CAC0-F6C6-4754-ABF0-B639966A8A8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6329CAC0-F6C6-4754-ABF0-B639966A8A8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6329CAC0-F6C6-4754-ABF0-B639966A8A8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6329CAC0-F6C6-4754-ABF0-B639966A8A8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98EABC4C-00A8-428F-9C06-DCCAEAD03F8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98EABC4C-00A8-428F-9C06-DCCAEAD03F8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98EABC4C-00A8-428F-9C06-DCCAEAD03F8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98EABC4C-00A8-428F-9C06-DCCAEAD03F8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {023C9FE1-1E10-4D60-A06D-DE528BD446A5}
+	EndGlobalSection
+EndGlobal
